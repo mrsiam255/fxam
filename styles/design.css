@@ -126,3 +126,26 @@
     color: #4E47FF;
     font-size: 5em;
 }
+.zn{
+    text-align: center;
+    color: #000000;
+    margin: 65px 135px 39px 135px;
+}
+.fff{
+    display: flex;
+    color: yellow;
+}
+.uff{
+    display: flex;
+}
+.cl{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 9px;
+    height: auto;
+    width: 235px;
+}
+.zt{
+    display: flex;
+    justify-content: space-around;
+}
