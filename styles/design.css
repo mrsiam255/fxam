@@ -149,3 +149,9 @@
     display: flex;
     justify-content: space-around;
 }
+.c:hover{
+    background-color: orange;
+}
+.staybtn:hover{
+    background-color: orange;
+}
