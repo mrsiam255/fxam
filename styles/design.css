@@ -110,3 +110,19 @@
     /*width: 125px;
     height: 12px;*/
 }
+.mz{
+    text-align: center;
+    margin: 25px 185px 35px 185px;
+}
+.mst{
+    display: flex;
+    justify-content: space-around;
+    gap: 16px;}
+.os{
+    text-decoration: none;
+    color: #1E1E1E;
+}
+.lg{
+    color: #4E47FF;
+    font-size: 5em;
+}
